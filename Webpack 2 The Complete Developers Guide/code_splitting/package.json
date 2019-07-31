@@ -1,0 +1,27 @@
+{
+  "name": "code_splitting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/plugin-syntax-dynamic-import": "^7.2.0",
+    "@babel/preset-env": "^7.4.5",
+    "babel-loader": "^8.0.6",
+    "babel-preset-env": "^1.7.0",
+    "css-loader": "^3.0.0",
+    "extract-text-webpack-plugin": "^2.0.0",
+    "file-loader": "^4.0.0",
+    "image-webpack-loader": "^5.0.0",
+    "imagemin-svgo": "^7.0.0",
+    "mini-css-extract-plugin": "^0.7.0",
+    "style-loader": "^0.23.1",
+    "url-loader": "^2.0.1",
+    "webpack": "^2.7.0"
+  }
+}
